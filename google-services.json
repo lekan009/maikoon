@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "328485888923",
+    "firebase_url": "https://maikoon-19c0a.firebaseio.com",
+    "project_id": "maikoon-19c0a",
+    "storage_bucket": "maikoon-19c0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328485888923:android:6b8fec04cbdf26cc81773e",
+        "android_client_info": {
+          "package_name": "com.maikoon.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328485888923-cjjn5pkqskab2j7bg1rcetbi8camrjgc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUyEXXAwpOqZ3Enxodrdi6ey5WI_ZKrtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328485888923-cjjn5pkqskab2j7bg1rcetbi8camrjgc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
